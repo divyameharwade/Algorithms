@@ -1,2 +1,2 @@
-# Dynamic_Programming
-This repository contains DP programs and solutions solved during my learning jounrey.
+# Algorithms
+This repository contains leetcode problems and solutions solved during my learning journey.
